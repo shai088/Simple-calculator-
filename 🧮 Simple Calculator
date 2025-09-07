@@ -1,0 +1,30 @@
+A basic calculator program written in Python that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division.
+
+
+✨ Features
+
+Perform basic arithmetic operations:
+
+➕ Addition
+
+➖ Subtraction
+
+✖️ Multiplication
+
+➗ Division
+
+User-friendly input and output
+Handles continuous calculations
+
+
+🖼️ Example
+
+Enter first number: 10  
+Enter operator (+, -, *, /):  
+Result: 50
+
+
+🛠️ Technologies
+
+Python 3
+
